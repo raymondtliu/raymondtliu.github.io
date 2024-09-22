@@ -30,7 +30,8 @@ twitter_username: raymondtliu
 github_username:  raymondtliu
 
 # Build settings
-theme: minima
+# removed minima theme
+# theme: minima
 plugins:
   - jekyll-feed
 
